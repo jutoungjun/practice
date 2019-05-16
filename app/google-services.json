@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36122779196",
+    "firebase_url": "https://kimjuyoung-eed41.firebaseio.com",
+    "project_id": "kimjuyoung-eed41",
+    "storage_bucket": "kimjuyoung-eed41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36122779196:android:29ddd47909df2fff",
+        "android_client_info": {
+          "package_name": "edu.android.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36122779196-3bi24unff3mqjred9intvfgrmfpr4eql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.android.practice",
+            "certificate_hash": "c8398f4f373e08850f55f88bb19ecf1f88b18dd4"
+          }
+        },
+        {
+          "client_id": "36122779196-bbtk74gsq4h0e0jceep2r2259rfdc9at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB05t8gaIgpayHD-pncy7HfsVnMIRkFLdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36122779196-bbtk74gsq4h0e0jceep2r2259rfdc9at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
